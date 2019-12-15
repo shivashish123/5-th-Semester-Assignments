@@ -1,0 +1,2 @@
+D= [M] -> {i,j| 0<i<100, 5<j<M}
+R= [M,N] -> {i,j -> p,q | 0<i<M and 0<j<N and i=p+q-N and 5<j<M and j=p-i-M}
